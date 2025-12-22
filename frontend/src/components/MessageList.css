@@ -1,4 +1,4 @@
-/* 🔄 UPDATED FILE */
+
 .messages-container {
   flex: 1;
   padding: 25px;
@@ -54,7 +54,7 @@
   }
 }
 
-/* ⭐ UPDATED - System messages (centered) */
+/*  UPDATED - System messages (centered) */
 .message.system {
   background: #e3e8ef;
   color: #5a6c7d;
@@ -67,7 +67,7 @@
   border-radius: 20px;
 }
 
-/* ⭐ UPDATED - Received messages (left side, white) */
+/*  UPDATED - Received messages (left side, white) */
 .message.received {
   background: white;
   border: 1px solid #e1e8ed;
@@ -75,7 +75,7 @@
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
 }
 
-/* ⭐ NEW - Sent messages (right side, purple) */
+/*  NEW - Sent messages (right side, purple) */
 .message.sent {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   color: white;
@@ -83,7 +83,7 @@
   box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
 }
 
-/* ⭐ UPDATED - Username color different for sent/received */
+/*  UPDATED - Username color different for sent/received */
 .message.received .message-user {
   font-weight: 700;
   font-size: 13px;
@@ -106,7 +106,7 @@
   word-break: break-word;
 }
 
-/* ⭐ UPDATED - Different text colors */
+/*  UPDATED - Different text colors */
 .message.received .message-text {
   color: #2d3748;
 }
@@ -121,7 +121,7 @@
   text-align: right;
 }
 
-/* ⭐ UPDATED - Different time colors */
+/*  UPDATED - Different time colors */
 .message.received .message-time {
   color: #a0aec0;
 }
@@ -159,4 +159,5 @@
   .message.system {
     max-width: 90%;
   }
+
 }
