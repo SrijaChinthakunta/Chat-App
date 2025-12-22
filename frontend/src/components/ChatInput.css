@@ -1,4 +1,3 @@
-/* ⭐ NEW FILE - Chat Input Styles */
 .chat-input-container {
   display: flex;
   padding: 20px 25px;
@@ -88,4 +87,5 @@
   .send-button {
     padding: 14px 24px;
   }
+
 }
