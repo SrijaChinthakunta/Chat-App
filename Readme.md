@@ -37,7 +37,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/Siri240807/Chat-App.git>
    ```
 
 2. Install backend dependencies:
@@ -125,4 +125,5 @@ chatapp/
 - `typing` - Emit when user is typing
 - `userTyping` - Listen for typing indicators
 - `connect/disconnect` - Handle connection status
+
 
