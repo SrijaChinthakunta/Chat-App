@@ -126,5 +126,17 @@ chatapp/
 - `userTyping` - Listen for typing indicators
 - `connect/disconnect` - Handle connection status
 
+## 📷 Sample UI
+
+Here are some screenshots of the application:
+
+![UI1](UI1.png)
+
+![UI2](UI2.png)
+
+![UI3](UI3.png)
+
+
+
 
 
